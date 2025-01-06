@@ -24,8 +24,8 @@ This repository contains a script to get user details by their immutable ID.
 1. Clone the repository:
 
     ```powershell
-    git clone https://github.com/martins-vds/Get-UserByImmutableId.git
-    cd .\Get-UserByImmutableId\
+    git clone https://github.com/martins-vds/microsoft-entra-immutable-id.git
+    cd .\microsoft-entra-immutable-id\
     ```
 
 2. **Run the script:**
